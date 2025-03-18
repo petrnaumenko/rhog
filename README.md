@@ -1,2 +1,2 @@
-# rhog
+# Rhog
 Rhino + dog = Rhog
